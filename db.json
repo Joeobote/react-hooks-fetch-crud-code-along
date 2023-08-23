@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Joe",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Joe",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Joe",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Joe",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Joe",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Joe",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12
     }
   ]
 }
